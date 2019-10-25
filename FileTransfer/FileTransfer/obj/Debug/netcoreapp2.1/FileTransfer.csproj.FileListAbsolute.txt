@@ -1,0 +1,25 @@
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.deps.json
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.runtimeconfig.json
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.runtimeconfig.dev.json
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.dll
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.csprojAssemblyReference.cache
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.AssemblyInfoInputs.cache
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.AssemblyInfo.cs
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\WinSCP.exe
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.pdb
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.dll
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.pdb
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\WinSCP.exe
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\Settings.job
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.deps.json
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.runtimeconfig.json
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.runtimeconfig.dev.json
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.dll
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\bin\Debug\netcoreapp2.1\FileTransfer.pdb
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.csprojAssemblyReference.cache
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.csproj.CoreCompileInputs.cache
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.AssemblyInfoInputs.cache
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.AssemblyInfo.cs
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.dll
+C:\Prudhvi\Hackathon\FileTransfer (2)\FileTransfer\FileTransfer\obj\Debug\netcoreapp2.1\FileTransfer.pdb
