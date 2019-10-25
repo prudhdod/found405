@@ -1,0 +1,13 @@
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\WinSCP.exe
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\Settings.job
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\FileTransfer.deps.json
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\FileTransfer.runtimeconfig.json
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\FileTransfer.runtimeconfig.dev.json
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\FileTransfer.dll
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\bin\Release\netcoreapp2.1\FileTransfer.pdb
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Release\netcoreapp2.1\FileTransfer.csprojAssemblyReference.cache
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Release\netcoreapp2.1\FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Release\netcoreapp2.1\FileTransfer.AssemblyInfoInputs.cache
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Release\netcoreapp2.1\FileTransfer.AssemblyInfo.cs
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Release\netcoreapp2.1\FileTransfer.dll
+C:\Users\adm-doddi.prudhvi\source\repos\FileTransfer\FileTransfer\obj\Release\netcoreapp2.1\FileTransfer.pdb

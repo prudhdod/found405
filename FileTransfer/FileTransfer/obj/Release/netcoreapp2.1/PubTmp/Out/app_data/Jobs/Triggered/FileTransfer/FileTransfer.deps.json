@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "10421e204cf1c95d4bb274c72573bbfcccf91028"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "FileTransfer/1.0.0": {
+        "dependencies": {
+          "WinSCP": "5.15.3"
+        },
+        "runtime": {
+          "FileTransfer.dll": {}
+        }
+      },
+      "WinSCP/5.15.3": {
+        "runtime": {
+          "lib/netstandard/WinSCPnet.dll": {
+            "assemblyVersion": "1.6.5.9730",
+            "fileVersion": "1.6.5.9730"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinSCP/5.15.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AXozbnVAg9U+/gXinFiUpG7Z4leuloSqbxQOV96xZwUDVD58UW9EtNEc0J5Va8X8K/+Pql1PP+cJ8AazLQUWdg==",
+      "path": "winscp/5.15.3",
+      "hashPath": "winscp.5.15.3.nupkg.sha512"
+    }
+  }
+}
